@@ -35,8 +35,21 @@
 ### Output:
 
 
-### Name:
-### Register Number:
+
+
+
+
+![WhatsApp Image 2024-11-30 at 8 08 38 PM](https://github.com/user-attachments/assets/fdfeea3a-beb4-4f8d-a5e2-34ebd64ad999)
+
+
+
+
+
+
+
+
+### Name: kushma. S
+### Register Number: 24013666
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
